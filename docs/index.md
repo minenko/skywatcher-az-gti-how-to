@@ -1,6 +1,3 @@
-layout: page
-title: "Sky Watcher AZ GTI mount how-to"
-
 # About this page
 
 TBD
